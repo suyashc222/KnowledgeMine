@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141076991689",
+    "firebase_url": "https://knowledge-mine.firebaseio.com",
+    "project_id": "knowledge-mine",
+    "storage_bucket": "knowledge-mine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141076991689:android:547b50831ada8b0dce0718",
+        "android_client_info": {
+          "package_name": "com.startupcell.knowledgemine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141076991689-nqig1jriug8ej8bacm54fn3suuh991n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiB15cc3kEq3DBss4M5HpBS9BSpocRS1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141076991689-nqig1jriug8ej8bacm54fn3suuh991n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

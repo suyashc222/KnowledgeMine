@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Knowledge Mine</string>
+    <string name="login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="sign_up">Not Registered yet?</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="register_name">Name</string>
+    <string name="register_email">Email</string>
+    <string name="register_mobile">Mobile No.</string>
+    <string name="register_college">College Name</string>
+    <string name="register_signup">Sign Up</string>
+</resources>
